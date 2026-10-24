@@ -1,5 +1,8 @@
-# Tokyo Night colours from https://github.com/folke/tokyonight.nvim
-# (lua/tokyonight/colors/*.lua and extras/lua/tokyonight_day.lua).
+# Tokyo Night, originally a Visual Studio Code theme by Enkia
+# (https://github.com/tokyo-night/tokyo-night-vscode-theme, MIT License).
+# Colour values from the tokyonight.nvim palette by Folke Lemaitre
+# (https://github.com/folke/tokyonight.nvim, Apache License 2.0):
+# lua/tokyonight/colors/*.lua and extras/lua/tokyonight_day.lua.
 # Each theme uses its own style in dark mode and the "day" style in light
 # mode, as tokyonight.nvim does.
 #
