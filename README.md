@@ -1,3 +1,5 @@
+<p align="center"><img src="images/logo.svg" width="128" height="128" alt="Tokyo Night logo"></p>
+
 # Tokyo Night for Home Assistant
 
 [![Open your Home Assistant instance and open this repository in HACS.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=williamcorsel&repository=ha-tokyo-night&category=theme)
@@ -71,5 +73,5 @@ data:
 
 ## Credits
 
-- Enkia made the original [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) theme for Visual Studio Code (MIT License).
+- Enkia made the original [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) theme for Visual Studio Code (MIT License). The logo of this repository reuses the background and tower of its icon; the license notice is inside `images/logo.svg`.
 - [tokyonight.nvim](https://github.com/folke/tokyonight.nvim) by Folke Lemaitre is the Neovim port that added the Moon and Day styles. The colour values in this repository come from its palette (Apache License 2.0).
